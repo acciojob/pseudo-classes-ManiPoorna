@@ -14,15 +14,15 @@ p{
 	color : red;
 	background : none;
 }
+li:nth-child(2n-1){
+	background : pink;
+}
 li:first-child{
 	background-color : white;
 }
 li:last-child{
-	background-color : stalegray;
+	background-color : white;
 }
 li :nth-child(even){
 	background : stalegray;
-}
-li:nth-child(2n-1){
-	background : pink;
 }
