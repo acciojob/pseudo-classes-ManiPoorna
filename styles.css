@@ -3,8 +3,9 @@ body{
 	background-color : rgb(135,206,235);
 /* 	background-color : skyblue; */
 }
-p{
+.p{
 	color : white;
+	background : black;
 }
 .p1{
 	color : black;
