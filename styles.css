@@ -20,4 +20,9 @@ li:first-child{
 li:last-child{
 	background-color : stalegray;
 }
-li:
+li :nth-child(even){
+	background : stalegray;
+}
+li:nth-child(2n-1){
+	background : pink;
+}
