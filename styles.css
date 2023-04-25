@@ -1,18 +1,16 @@
 /*  your css code here. If applicable */
 body{
-	background-color : skyblue;
+	background-color : rgb(135,206,235);
+/* 	background-color : skyblue; */
 }
 p{
 	color : white;
-	background-color : black;
 }
 .p1{
 	color : black;
-	background-color : none;
 }
 .p3{
 	color : red;
-	background;-color : none;
 }
 li:nth-child(2n-1){
 	background-color : pink;
